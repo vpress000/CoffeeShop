@@ -21,7 +21,7 @@ jsonschema==3.2.0
 lazy-object-proxy==1.4.3
 MarkupSafe==1.1.1
 mccabe==0.6.1
-mistune==0.8.4
+mistune==3.3.3
 pathspec==0.8.0
 pycodestyle==2.5.0
 pycryptodome==3.6.6
